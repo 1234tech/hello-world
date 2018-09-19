@@ -1,5 +1,5 @@
 # Project Hello World
-+ By: *yStacy Schermann*
++ By: *Stacy Schermann*
 + Production URL: <http://hello-world.dwa15.me>
 
 ## Outside resources
